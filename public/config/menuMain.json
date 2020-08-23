@@ -43,7 +43,13 @@
         "slug": "celular",
         "title": "1.4 Niveles de organización de los Seres vivos",
         "anchor": "14"
-      }
+      },
+      {
+       "icon": "fa fa-question-circle",
+       "slug": "actividad-1",
+       "title": "Actividad didáctica: centro de comunicaciones",
+       "path": "pages/actividad-1.html"
+     }
     ] 
    },
 
@@ -60,13 +66,32 @@
         "slug": "organismico",
         "title": "2.1 Funciones vitales",
         "anchor": "21"
-      },   
+      },
+      {
+       "icon": "fa fa-question-circle",
+       "slug": "actividad-2",
+       "title": "Actividad didáctica: good food",
+       "path": "pages/actividad-2.html"
+      },
+      {
+        "icon": "fa fa-question-circle",
+        "slug": "actividad-3",
+        "title": "Actividad didáctica: fiesta de los seres vivos",
+        "path": "pages/actividad-3.html"
+      },
+      {
+      "icon": "fa fa-question-circle",
+      "slug": "actividad-4",
+      "title": "Actividad didáctica: circulando ando",
+      "path": "pages/actividad-4.html"
+      },         
       {
         "icon": "fa fa-file-text-o",
         "slug": "organismico",
         "title": "2.2 Funciones de relación",
         "anchor": "22"
-      },{
+      },
+      {
         "icon": "fa fa-file-text-o",
         "slug": "organismico",
         "title": "2.3 La reproducción",
@@ -101,12 +126,6 @@
         "anchor": "33"
       }
     ]  
-  },
-  {
-    "icon": "fa fa-question-circle",
-    "slug": "actividad-1",
-    "title": "Actividad didáctica",
-    "path": "pages/actividad-1.html"
   }
   
 ]
