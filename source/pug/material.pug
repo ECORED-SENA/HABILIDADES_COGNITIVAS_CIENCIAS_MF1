@@ -36,14 +36,17 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', 'main.html#page/introduccion/')
-                                    +navTemaItem('1', 'Referente celular', 'main.html#page/celular/')
-                                    +navTemaItem('question', 'Actividad didáctica: centro de comunicaciones', 'main.html#page/actividad-1/')                    
-                                    +navTemaItem('2', 'Referente organísmico', 'main.html#page/organismico/') 
-                                    +navTemaItem('question', 'Actividad didáctica: good food', 'main.html#page/actividad-2/') 
-                                    +navTemaItem('question', 'Actividad didáctica: fiesta de los seres vivos', 'main.html#page/actividad-3/') 
-                                    +navTemaItem('question', 'Actividad didáctica: circulando ando', 'main.html#page/actividad-4/')                                                              
-                                    +navTemaItem('3', 'Referente ecosistémico', 'main.html#page/ecosistemico/') 
+                                    +navTemaItem('play', 'Introducción', '#introduccion')
+                                    +navTemaItem('1', 'Referente celular', '#tema-1')
+                                    +navTemaItem('question', 'Actividad didáctica: centro de comunicaciones', '#evaluacion-1')                    
+                                    +navTemaItem('2', 'Referente organísmico', '#tema-2') 
+                                    +navTemaItem('question', 'Actividad didáctica: good food', '#evaluacion-2') 
+                                    +navTemaItem('question', 'Actividad didáctica: fiesta de los seres vivos', '#evaluacion-3') 
+                                    +navTemaItem('question', 'Actividad didáctica: circulando ando', '#evaluacion-4')                                                              
+                                    +navTemaItem('3', 'Referente ecosistémico', '#tema-3') 
+                                    +navTemaItem('glosary', 'Glosario', '#glosario')
+                                    +navTemaItem('folder', 'Material complementario', '#anexos')
+                                    +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
         section#mainContent         
@@ -51,20 +54,18 @@ html(lang="es")
                 include pages/intro.pug
             #tema-1
                 include pages/1-tema.pug
+            #evaluacion-1
+                include pages/actividad-1.pug
             #tema-2
                 include pages/2-tema.pug
+            #evaluacion-2
+                include pages/actividad-2.pug
+            #evaluacion-3
+                include pages/actividad-3.pug
+            #evaluacion-4
+                include pages/actividad-4.pug
             #tema-3
                 include pages/3-tema.pug
-                            
-            #evaluacion
-                include pages/actividad-1.pug
-            #evaluacion
-                include pages/actividad-2.pug
-            #evaluacion
-                include pages/actividad-3.pug
-            #evaluacion
-                include pages/actividad-4.pug
-
             #glosario
                 include pages/glosario.pug
             #anexos
