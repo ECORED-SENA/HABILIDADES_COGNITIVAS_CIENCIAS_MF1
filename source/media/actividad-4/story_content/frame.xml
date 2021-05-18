@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="04" />
+              <option name="title_text" value="05" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -77,7 +77,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1239,16 +1239,16 @@
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6jJtW3DdLDh" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.63emfQMdofx" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5pUVSvkWipK" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6V2PwldnUqr" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5Z2UlgN8ZRo" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6iZjCSN4ZVW" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6CnT038G2Uq" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6dOWj8K8dNm" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5doZ0f752NQ" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6AWYUAGGss0" displaytext="RESULTADOS" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="El sistema circulatorio es el responsable del transporte de los nutrientes como el oxígeno a todas las células del cuerpo. " expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6cF0uou594c" displaytext="Los insectos carecen de sangre." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6E4I8Dp0Qpu" displaytext="Los vasos sanguíneos son los conductos&#xA;por donde circula la sangre." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6ovbg2v7IkU" displaytext="Las plantas carecen de sistema circulatorio." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6YntrvUCloe" displaytext="La sangre venosa y arterial no se mezclan&#xA;en el sistema circulatorio abierto." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6DwD9AUDfD6" displaytext="El sistema circulatorio cerrado posee vasos sanguíneos." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6DQdcM3LFrh" displaytext="Las lagunas o senos hacen parte de los vasos sanguíneos." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6dQ2xYht412" displaytext="Los escarabajos poseen sistema circulatorio abierto." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6pczLP1VYcb" displaytext="Las ballenas poseen sistema circulatorio cerrado." expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.6XaQje3zUPL" displaytext="La sangre siempre es de color rojo." expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
